@@ -11,8 +11,9 @@
         
       <div class="row justify-content-center"  >
           @foreach ($articles as $article)
-             
+              
           <div class="col-sm-6 my-3">
+            
             
            
                   <x-article-card
